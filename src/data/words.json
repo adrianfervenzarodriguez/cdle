@@ -1,0 +1,290 @@
+[
+    {
+        "key": "array",
+        "description": "Estructura de datos que almacena elementos del mismo tipo en una secuencia ordenada."
+    },
+    {
+        "key": "debug",
+        "description": "Proceso de encontrar y resolver errores o fallos en un programa."
+    },
+    {
+        "key": "cache",
+        "description": "Memoria de acceso rápido que almacena datos temporalmente para mejorar el rendimiento."
+    },
+    {
+        "key": "stack",
+        "description": "Estructura de datos que sigue el principio LIFO (Last In, First Out)."
+    },
+    {
+        "key": "query",
+        "description": "Instrucción para recuperar datos de una base de datos."
+    },
+    {
+        "key": "input",
+        "description": "Datos o información que un programa recibe para procesar."
+    },
+    {
+        "key": "regex",
+        "description": "Expresión regular utilizada para buscar y manipular cadenas de texto."
+    },
+    {
+        "key": "mutex",
+        "description": "Objeto utilizado en programación concurrente para evitar que múltiples threads accedan a un recurso compartido al mismo tiempo."
+    },
+    {
+        "key": "token",
+        "description": "Unidad de datos utilizada en el proceso de autenticación o en análisis léxico."
+    },
+    {
+        "key": "patch",
+        "description": "Actualización de software que corrige errores o añade mejoras."
+    },
+    {
+        "key": "yield",
+        "description": "Palabra clave en algunos lenguajes de programación que pausa la ejecución de una función y devuelve un valor al llamador."
+    },
+    {
+        "key": "merge",
+        "description": "Proceso de combinar dos o más conjuntos de datos o ramas de código."
+    },
+    {
+        "key": "flush",
+        "description": "Proceso de vaciar un buffer, enviando los datos almacenados a su destino."
+    },
+    {
+        "key": "index",
+        "description": "Estructura que mejora la velocidad de búsqueda en bases de datos o listas."
+    },
+    {
+        "key": "parse",
+        "description": "Proceso de analizar una cadena de texto y convertirla en un formato más útil."
+    },
+    {
+        "key": "clone",
+        "description": "Copia exacta de un objeto, archivo o repositorio de código."
+    },
+    {
+        "key": "bytes",
+        "description": "Unidad básica de datos en la computación, generalmente de 8 bits."
+    },
+    {
+        "key": "class",
+        "description": "Plantilla para crear objetos en programación orientada a objetos."
+    },
+    {
+        "key": "scope",
+        "description": "Contexto en el que una variable o función es accesible."
+    },
+    {
+        "key": "float",
+        "description": "Tipo de dato que representa números con decimales."
+    },
+    {
+        "key": "while",
+        "description": "Estructura de control que repite un bloque de código mientras una condición sea verdadera."
+    },
+    {
+        "key": "break",
+        "description": "Instrucción que termina un bucle o bloque de código prematuramente."
+    },
+    {
+        "key": "const",
+        "description": "Palabra clave que define una variable cuyo valor no puede cambiar."
+    },
+    {
+        "key": "param",
+        "description": "Variable que se pasa a una función para influir en su comportamiento."
+    },
+    {
+        "key": "block",
+        "description": "Conjunto de instrucciones agrupadas entre llaves en varios lenguajes de programación."
+    },
+    {
+        "key": "shift",
+        "description": "Operación que desplaza bits a la izquierda o derecha en una cadena binaria."
+    },
+    {
+        "key": "split",
+        "description": "Dividir una cadena en partes más pequeñas basándose en un delimitador."
+    },
+    {
+        "key": "table",
+        "description": "Estructura de datos que organiza la información en filas y columnas."
+    },
+    {
+        "key": "strip",
+        "description": "Eliminar caracteres específicos del principio y/o final de una cadena."
+    },
+    {
+        "key": "shell",
+        "description": "Interfaz de línea de comandos que permite interactuar con el sistema operativo."
+    },
+    {
+        "key": "fetch",
+        "description": "Recuperar datos desde una ubicación externa, como una base de datos o una API."
+    },
+    {
+        "key": "group",
+        "description": "Colección de elementos que se trata como una única unidad."
+    },
+    {
+        "key": "logic",
+        "description": "Principios que rigen el razonamiento y la toma de decisiones en un programa."
+    },
+    {
+        "key": "align",
+        "description": "Organizar o ajustar elementos según un eje o referencia."
+    },
+    {
+        "key": "close",
+        "description": "Terminar o cerrar un recurso, como un archivo o una conexión."
+    },
+    {
+        "key": "macro",
+        "description": "Secuencia de instrucciones automatizada que se ejecuta como una única acción."
+    },
+    {
+        "key": "modes",
+        "description": "Diferentes estados o configuraciones en los que puede operar un sistema."
+    },
+    {
+        "key": "reset",
+        "description": "Restaurar un sistema o componente a su estado inicial."
+    },
+    {
+        "key": "slice",
+        "description": "Extraer una porción de una estructura de datos, como una lista o cadena."
+    },
+    {
+        "key": "print",
+        "description": "Mostrar datos o resultados en una salida, como la consola o una impresora."
+    },
+    {
+        "key": "count",
+        "description": "Calcular el número total de elementos en una estructura de datos."
+    },
+    {
+        "key": "label",
+        "description": "Identificador asignado a una variable, función u objeto."
+    },
+    {
+        "key": "proxy",
+        "description": "Intermediario que actúa en nombre de otro sistema o componente."
+    },
+    {
+        "key": "pipes",
+        "description": "Mecanismo para encadenar comandos o procesos, pasando la salida de uno como entrada de otro."
+    },
+    {
+        "key": "batch",
+        "description": "Proceso que se ejecuta en grupo, generalmente sin intervención del usuario."
+    },
+    {
+        "key": "bound",
+        "description": "Límite o restricción aplicada a una variable o proceso."
+    },
+    {
+        "key": "event",
+        "description": "Acción o suceso que puede ser detectado y manejado por el programa."
+    },
+    {
+        "key": "flags",
+        "description": "Indicadores binarios que controlan el flujo de un programa o indican estados."
+    },
+    {
+        "key": "inode",
+        "description": "Estructura de datos en un sistema de archivos que almacena información sobre un archivo o un directorio."
+    },
+    {
+        "key": "timer",
+        "description": "Mecanismo que mide el tiempo transcurrido o ejecuta acciones después de un intervalo."
+    },
+    {
+        "key": "model",
+        "description": "Representación abstracta de un sistema o proceso en programación."
+    },
+    {
+        "key": "cycle",
+        "description": "Repetición de una secuencia de operaciones o instrucciones en un bucle."
+    },
+    {
+        "key": "datum",
+        "description": "Unidad individual de datos."
+    },
+    {
+        "key": "entry",
+        "description": "Elemento o registro en una estructura de datos, como una tabla o lista."
+    },
+    {
+        "key": "limit",
+        "description": "Restricción o cota que define el alcance de un proceso o estructura."
+    },
+    {
+        "key": "admin",
+        "description": "Usuario con privilegios elevados que gestiona el sistema o la aplicación."
+    },
+    {
+        "key": "nodes",
+        "description": "Puntos o vértices en una estructura de datos, como un árbol o grafo."
+    },
+    {
+        "key": "equal",
+        "description": "Comparar dos valores para verificar si son idénticos."
+    },
+    {
+        "key": "setup",
+        "description": "Proceso de configuración inicial de un sistema o software."
+    },
+    {
+        "key": "binds",
+        "description": "Asociar una función o variable a un contexto o evento específico."
+    },
+    {
+        "key": "retry",
+        "description": "Intentar nuevamente un proceso o acción que ha fallado."
+    },
+    {
+        "key": "union",
+        "description": "Operación que combina elementos de dos conjuntos, eliminando duplicados."
+    },
+    {
+        "key": "basic",
+        "description": "Lenguaje de programación simple y accesible para principiantes."
+    },
+    {
+        "key": "delta",
+        "description": "Cambio o diferencia entre dos estados o versiones."
+    },
+    {
+        "key": "ready",
+        "description": "Estado en el que un proceso o sistema está preparado para ejecutarse."
+    },
+    {
+        "key": "clear",
+        "description": "Eliminar datos o restablecer un valor a su estado inicial."
+    },
+    {
+        "key": "ascii",
+        "description": "Estándar de codificación de caracteres utilizado en computación."
+    },
+    {
+        "key": "pivot",
+        "description": "Transformar o rotar datos, comúnmente en el análisis de datos o en bases de datos."
+    },
+    {
+        "key": "alert",
+        "description": "Notificación generada por un programa para indicar un evento importante."
+    },
+    {
+        "key": "build",
+        "description": "Proceso de compilar y ensamblar el código fuente en un programa ejecutable."
+    },
+    {
+        "key": "chart",
+        "description": "Gráfico que representa datos visualmente para su análisis."
+    },
+    {
+        "key": "click",
+        "description": "Acción de presionar un botón del ratón para interactuar con una interfaz."
+    }
+]
